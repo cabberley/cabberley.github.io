@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Page With Contents
-menubar_toc: true
-toc_title: Custom Title
+show_sidebar: false
+menubar: example_menu
 ---
 
 ### TEst
