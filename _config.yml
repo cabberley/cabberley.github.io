@@ -14,3 +14,5 @@ giscus:
   reaction-enabled:    "1"
   theme:               "dark_dimmed"
   crossorigin:         "anonymous"
+paginate: 5
+paginate_path: "/blog/page:num"
