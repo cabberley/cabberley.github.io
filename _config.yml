@@ -1,7 +1,6 @@
-#theme: jekyll-theme-minimal
-remote_theme: cabberley/bulma-clean-theme
-title: Blog about my adventures with Home Automation and Energy Management
-description: Bookmark this to keep an eye on my project updates!
+theme: bulma-clean-theme
+title: Home Automation and Energy Management Blog
+description: My Blog on energy and other Home Automation topics!
 comments:
   provider: giscuss
   

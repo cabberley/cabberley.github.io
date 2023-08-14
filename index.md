@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Page With Contents
-show_sidebar: false
-menubar: example_menu
+#menubar: menu1
+#show_sidebar: false
+hide_hero: true
 ---
 
 ### Landing page
