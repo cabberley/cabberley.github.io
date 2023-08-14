@@ -5,7 +5,8 @@ gem 'jekyll'
 group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
+  gem 'jekyll-asciidoc'
+  gem 'jekyll-sass-converter' '~> 3'
 end
 
 gem 'asciidoctor', '~> 1.5.4'
