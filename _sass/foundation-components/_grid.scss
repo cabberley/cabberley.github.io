@@ -30,9 +30,9 @@ $last-child-float: $opposite-direction !default;
 // $totalColumns - Found in settings file
 @function grid-calc($colNumber, $totalColumns) {
   @use "sass:math";
-  // @return percentage(calc($colNumber / $totalColumns));
+  @return percentage(calc($colNumber / $totalColumns));
   // @return (math.div($colNumber , $totalColumns) * 100);
-  @return percentage(($colNumber / $totalColumns));
+  // @return percentage(($colNumber / $totalColumns));
 }
 
 //
