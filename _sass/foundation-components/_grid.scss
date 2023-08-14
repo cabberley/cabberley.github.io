@@ -31,7 +31,8 @@ $last-child-float: $opposite-direction !default;
 @function grid-calc($colNumber, $totalColumns) {
   @use "sass:math";
   // @return percentage(calc($colNumber / $totalColumns));
-  @return (math.div($colNumber , $totalColumns) * 100);
+  // @return (math.div($colNumber , $totalColumns) * 100);
+  @return percentage(($colNumber / $totalColumns));
 }
 
 //
