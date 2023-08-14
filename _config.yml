@@ -1,4 +1,5 @@
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 title: Home Automation and Energy Management Blog
 description: My Blog on energy and other Home Automation topics!
 comments:
