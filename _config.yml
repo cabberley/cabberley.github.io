@@ -144,7 +144,7 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_site_verification        : 'EIRYcaNN3YIi3aNT23ozNZf6MazQME4kyPHfkK2J4Gs'
-#bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
+bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
 
