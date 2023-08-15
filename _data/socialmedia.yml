@@ -3,10 +3,10 @@
   class: icon-github
   title: Github code
 
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: YouTube
+  url: https://www.linkedin.com/in/chrisabberley
+  class: icon-linkedin
+  title: "LinkedIn Profile"
 
 #- name: Twitter
 #  url: http://twitter.com/phlow
