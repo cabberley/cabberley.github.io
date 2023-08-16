@@ -6,15 +6,19 @@ teaser: "The full-width page format gives you all the space you need to show you
 breadcrumb: true
 categories:
     - amber
+tags:
+    - amber
+    - hass
+    - energy
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: underconst2.gif
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    <img src="{{ site.urlimg }}underconst2.gif" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
