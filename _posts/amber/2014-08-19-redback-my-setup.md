@@ -5,7 +5,7 @@ subheadline:  "Redback Technologies"
 #teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 breadcrumb: true
 categories:
-    - amber
+    - redback
 tags:
     - amber
     - hass

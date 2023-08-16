@@ -6,7 +6,7 @@ teaser: "A post of how Amber works and is it right for you?"
 meta_teaser: "A post of how Amber works and is it right for you?"
 breadcrumb: true
 categories:
-  - energy
+  - amber
 #  design:
 tags:
     - blog
