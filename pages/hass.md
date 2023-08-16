@@ -1,17 +1,17 @@
 ---
 layout: page
 show_meta: false
-title: "Posts regarding Amber Topics"
+title: "Posts tagged Home Assistant"
 #subheadline: "Layouts of Feeling Responsive"
 #header:
 #   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/amber/"
+permalink: "/hass/"
 ---
 
 <ul>
 {% for post in site.posts %}
 {% for tag in post.tags %}
-{% if tag == "amber" %}
+{% if tag == "hass" %}
 
 <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 

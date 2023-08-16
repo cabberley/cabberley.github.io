@@ -10,9 +10,8 @@ categories:
 #  design:
 tags:
     - blog
-    - content
-    - post
-    - post format
+    - amber
+    - energy
 image:
     title: gallery-example-1.jpg
     caption: Unsplash.com
