@@ -17,7 +17,7 @@ slogan: 'My thoughts on Energy Matters'
 description: '»My thoughts on Energy Matters« Thoughts and ideas on energy in Australia and Smart Home Technology'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created and hosted on <a href="http://github.com/">GitHub</a>Pages  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created and hosted on <a href="http://github.com/">GitHub</a> Pages with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -121,7 +121,7 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
+      comments: true
       author: chris     # Default author for posts
 
 
@@ -206,7 +206,7 @@ msapplication_tilecolor              : '#fabb00'
 #
 # used in _includes/comments
 
-# disqus_shortname: 
+disqus_shortname: blog-abberley-wtf
 
 
 #      _____
@@ -271,3 +271,13 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+#collections:
+#  amber:
+#    output: true
+#    permalink: /:collection/:name
+#  energy:
+#    output: true
+#    permalink: /:collection/:name
+
+#collections_dir: my_collections

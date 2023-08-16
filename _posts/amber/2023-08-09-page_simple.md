@@ -4,8 +4,11 @@ layout: page
 # Content
 #
 subheadline: ""
-title: ""
+title: "testttt"
 teaser: ""
+breadcrumb: true
+categories:
+    - amber
 #
 # Styling
 #
@@ -16,3 +19,4 @@ header: no
 permalink:
 ---
 
+test
