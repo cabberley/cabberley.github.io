@@ -45,6 +45,8 @@
     url: "/amber/"
   - title: "HASS Topics"
     url: "/hass/"
+  - title: "Redback Technologies Topics"
+    url: "/redback/"
 
 - title: Roadmap
   url: "/roadmap/"
