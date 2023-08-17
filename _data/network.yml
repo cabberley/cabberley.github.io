@@ -10,8 +10,12 @@
   class: "services-newsletter"
   title: "Amber"
 
+- name: "Redback Technologies"
+  url: "https://www.redbacktech.com/"
+  class: "network-entypo"
+  title: "Redback Technologies"
+  
 - name: "AEMO Data Dashboard"
   url: "https://aemo.com.au/Energy-systems/Electricity/National-Electricity-Market-NEM/Data-NEM/Data-Dashboard-NEM"
   class: "rss-link"
   title: "AEMO Data Dashboard"
-
